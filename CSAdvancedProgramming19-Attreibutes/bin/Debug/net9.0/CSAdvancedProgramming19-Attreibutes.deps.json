@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "CSAdvancedProgramming19-Attreibutes/1.0.0": {
+        "runtime": {
+          "CSAdvancedProgramming19-Attreibutes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CSAdvancedProgramming19-Attreibutes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
