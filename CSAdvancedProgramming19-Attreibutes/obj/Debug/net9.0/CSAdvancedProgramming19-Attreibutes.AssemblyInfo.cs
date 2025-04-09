@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CSAdvancedProgramming19-Attreibutes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1d20be9b054ae4c4e0cf9b7236435533d6425884")]
 [assembly: System.Reflection.AssemblyProductAttribute("CSAdvancedProgramming19-Attreibutes")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CSAdvancedProgramming19-Attreibutes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
