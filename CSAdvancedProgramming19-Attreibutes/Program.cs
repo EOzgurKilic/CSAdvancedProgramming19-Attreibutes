@@ -1,4 +1,5 @@
-﻿using System.Text.Json.Serialization;
+﻿using System.Reflection;
+using System.Text.Json.Serialization;
 
 namespace CSAdvancedProgramming19_Attreibutes;
 
@@ -33,7 +34,10 @@ class Program
         //Check ExpClass3 below
         
         //Assembly Level Attributes
-        //In default, attributes are run-time concept. However, we can declare 
+        //In default, attributes are run-time concept. However, we can perform operations with attributes in the compile time too via assembly keyword.
+        //To qualify an attribute with that feature, we needa mark the attribute with the keyword in the AssemblyInfo.cs file.
+        //If you wanna check it, here is the path SolutionName\ProjectName\obj\Debug\net9.0\ProjectName.AssemblyInfo.cs
+
     }
 }
 //[CustomAttribute] //Instead of this,
